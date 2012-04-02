@@ -1,4 +1,4 @@
 @echo off
 git add .
 git commit -m "%*"
-git push
+git push %1 %2
