@@ -5,5 +5,6 @@
 : volumeup Increase (Windows) volume
 : volumedown Decrease (Windows) volume
 : setfocus Bring Spotify window to front
+@echo off
 
 "%HOMEDRIVE%%HOMEPATH%\dev\cuts\lib\spotifyctrl.exe" \%1
