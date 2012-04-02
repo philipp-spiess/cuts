@@ -1,3 +1,3 @@
 # Cuts #
 
-Just some shortcuts for my oldish Windows PC. 
+Just some shortcuts for my oldish Windows PC.
